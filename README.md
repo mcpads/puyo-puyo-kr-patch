@@ -112,19 +112,24 @@ SFC **슈퍼 뿌요뿌요 2 (す〜ぱ〜ぷよぷよ通, Super Puyo Puyo 2)** �
 ### 적용 방법
 
 1. **일본판 원본 ROM** (`Super Puyo Puyo Tsuu (Japan).sfc`, 헤더 없는 LoROM, 2MB)을 준비합니다
-2. [Super Puyo Puyo 2 (SNES) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/Super%20Puyo%20Puyo%202%20(SNES)%20KR%20v1.0.0.bps)를 다운로드합니다
+2. [Super Puyo Puyo 2 (SNES) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/Super%20Puyo%20Puyo%202%20(SNES)%20KR%20v1.1.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 원본 ROM에 적용합니다
+
+### v1.1.0 변경 사항
+
+- 메뉴·게임 설명과 게임·엔딩 그래픽 추가 번역
+- 대사창 넘침과 진엔딩 표시 오류 수정
 
 ### 체크섬
 
-#### 배포 패치 v1.0.0
+#### 배포 패치 v1.1.0
 
-**Super Puyo Puyo 2 (SNES) KR v1.0.0.bps**
+**Super Puyo Puyo 2 (SNES) KR v1.1.0.bps**
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| SHA-256  | `fec7f6c88be38c73c37224e9a107f2d140d887790fb7ba1f48e0857fc44d520c` |
-| 크기     | 86,239 bytes                                                       |
+| SHA-256  | `2969595b9d7505078c0af98b6c1fed0b8f12e7b4514916b409d36c9f5736f3c0` |
+| 크기     | 92,376 bytes                                                       |
 
 #### 원본 ROM (SFC, 헤더 없음)
 
@@ -278,6 +283,7 @@ SFC **슈퍼 퍼즐뿌요 2 (すーぱーなぞぷよ通 ルルーの鉄腕繁�
 | v0.2.0 | 2026-07-12 | 슈퍼 나조 뿌요 2 (SNES) | 몇몇 버그 수정 |
 | v1.0.0 | 2026-07-12 | 슈퍼 뿌요뿌요 2 (SNES) | 정식 배포      |
 | v1.0.0 | 2026-07-15 | 슈퍼 나조 뿌요 2 (SNES) | 정식 배포      |
+| v1.1.0 | 2026-08-09 | 슈퍼 뿌요뿌요 2 (SNES) | 추가 번역 및 표시 오류 수정 |
 
 ## 라이선스
 
