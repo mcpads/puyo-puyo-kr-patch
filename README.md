@@ -144,6 +144,7 @@ SFC **슈퍼 뿌요뿌요 2 (す〜ぱ〜ぷよぷよ通, Super Puyo Puyo 2)** �
 ### 패치 정보
 
 - 한글 폰트: Galmuri11, BMJUA, Maplestory Light/Bold, dalmoori
+- [패처 코드베이스](https://github.com/mcpads/sfc-puyopuyo2-kr-patcher)
 
 ### 크레딧
 
@@ -247,6 +248,7 @@ SFC **슈퍼 퍼즐뿌요 2 (すーぱーなぞぷよ通 ルルーの鉄腕繁�
 ### 패치 정보
 
 - 한글 폰트: neodgm, dalmoori, Maplestory Bold, Galmuri11/14
+- [패처 코드베이스](https://github.com/mcpads/sfc-nazo-rulue2-kr-patcher)
 
 ### 크레딧
 
