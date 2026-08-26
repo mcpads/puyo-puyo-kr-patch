@@ -150,7 +150,6 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 - **패치 제작자**: mcpads
 - **리버싱**: mcpads (with Claude Code, Codex)
 - **한글 번역**: Claude Code 및 Codex
-- **이미지 제작 지원**: ImageGen
 - **원작**: Compile / Sega (1999)
 
 ---
