@@ -4,7 +4,7 @@
 
 PlayStation **뿌요뿌요 BOX (ぷよぷよBOX)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 번역·표기·그래픽과 패치 내용은 추후 변경될 수 있으며, 일부 조건에서 문제가 발생할 수 있습니다.
+> ⚠️ **베타 배포 (v0.1.1)**: 번역·표기·그래픽과 패치 내용은 추후 변경될 수 있으며, 일부 조건에서 문제가 발생할 수 있습니다.
 
 ![뿌요뿌요 BOX 한글 타이틀](../img/ps1-puyopuyo-box-title.png)
 
@@ -15,13 +15,22 @@ PlayStation **뿌요뿌요 BOX (ぷよぷよBOX)** 한글 번역 패치입니다
 ## 적용 방법
 
 1. 아래 체크섬과 일치하는 일본판 원본 BIN/CUE를 준비합니다.
-2. [Puyo Puyo BOX (PlayStation) KR v0.1.0.xdelta](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/ps1-puyopuyo-box/Puyo%20Puyo%20BOX%20%28PlayStation%29%20KR%20v0.1.0.xdelta)를 다운로드합니다.
+2. [Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/ps1-puyopuyo-box/Puyo%20Puyo%20BOX%20%28PlayStation%29%20KR%20v0.1.1.xdelta)를 다운로드합니다.
 3. `xdelta3` 등 xdelta 호환 패처로 원본 BIN에 한글 패치를 적용합니다.
 4. 원본 CUE를 복사한 뒤 `FILE` 행의 BIN 이름만 결과 BIN 이름으로 바꿉니다. `TRACK`과 `INDEX`는 유지합니다.
 
 ```sh
-xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v0.1.0.xdelta" "Puyo Puyo BOX (PlayStation) KR v0.1.0.bin"
+xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta" "Puyo Puyo BOX (PlayStation) KR v0.1.1.bin"
 ```
+
+0.1.1도 일본판 원본 BIN에 적용하는 누적 패치입니다. 기존 한글판 BIN에 덧씌우지 마세요. 업데이트 후에는 게임을 새로 실행해 메모리카드 저장 게임을 불러오세요. 이전 버전의 세이브스테이트 호환성은 확인하지 않았습니다.
+
+## 0.1.1 변경 사항
+
+- 퀘스트의 특제뿌요만 설명 글자 누락과 상점 글꼴이 섞이는 문제 수정
+- 퀘스트 문자·숫자·문장부호의 글꼴 정리
+- 득점 링·꽁꽁 링·곤약 부츠·오라오라 지팡이의 설명창 넘침 수정
+- 월드맵 지명과 도구창 설명을 표시할 때 발생하는 반복 전송을 줄여 성능 개선
 
 ## 알려진 제한
 
@@ -29,14 +38,14 @@ xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v0.1.0
 
 ## 체크섬
 
-### 배포 패치 v0.1.0
+### 배포 패치 v0.1.1
 
-**Puyo Puyo BOX (PlayStation) KR v0.1.0.xdelta**
+**Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta**
 
 | 알고리즘 | 해시 |
 | --- | --- |
-| SHA-256 | `5218c44293d727500200c087147357db76924635a9c6f75c2087b5348a2012e2` |
-| 크기 | 1,752,823 bytes |
+| SHA-256 | `129e02ae18bfc2fe7a1e5f69b3dfc9dc94586b5ecd296873155cb8a10dce9ee7` |
+| 크기 | 1,776,654 bytes |
 
 ### 원본 BIN (SLPS-03114, MODE2/2352)
 
