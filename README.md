@@ -12,6 +12,7 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 
 | 대표 이미지 | 게임 | 기종 | 버전 | 상태 | 최근 배포 |
 | --- | --- | --- | --- | --- | --- |
+| <a href="psp-puyo20/"><img src="img/thumb/psp-puyo20.png" alt="뿌요뿌요 20주년 기념판" height="96"></a> | [뿌요뿌요!! 20주년 기념판](psp-puyo20/) | PSP | v0.1.0 | 베타 | 2026-09-27 |
 | <a href="dc-puyopuyon/"><img src="img/thumb/dc-puyopuyon.png" alt="뿌요뿌욘" height="96"></a> | [뿌요뿌욘](dc-puyopuyon/) | 드림캐스트 | v1.0.1 | 정식 | 2026-07-10 |
 | <a href="dc-puyopuyo-da/"><img src="img/thumb/dc-puyopuyo-da.png" alt="뿌요뿌요 DA!" height="96"></a> | [뿌요뿌요 DA!](dc-puyopuyo-da/) | 드림캐스트 | v1.0.0 | 정식 | 2026-09-11 |
 | <a href="ps1-puyopuyo-box/"><img src="img/thumb/ps1-puyopuyo-box.png" alt="뿌요뿌요 BOX" height="96"></a> | [뿌요뿌요 BOX](ps1-puyopuyo-box/) | PlayStation | v0.1.1 | 베타 | 2026-09-21 |
@@ -30,18 +31,6 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 ## 번역 예정 작품
 
 ### 뿌요뿌요!! 20주년 기념판 (NDS)
-
-진행 중입니다. 번역 초안을 적용했으며, 그래픽 한글화와 검수를 진행하고 있습니다.
-
-- [x] 일본어 폰트 추출 및 테이블 완성
-- [x] 시나리오 텍스트 추출
-- [x] 시나리오 및 이벤트 대사 번역 초안
-- [x] 한글 폰트 통합 및 적용
-- [ ] 시스템 UI
-- [ ] 시스템 안정성
-- [ ] 플레이 테스트 및 최종 검수
-
-### 뿌요뿌요!! 20주년 기념판 (PSP)
 
 진행 중입니다. 번역 초안을 적용했으며, 그래픽 한글화와 검수를 진행하고 있습니다.
 
