@@ -12,8 +12,8 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 
 | 대표 이미지 | 게임 | 기종 | 버전 | 상태 | 최근 배포 |
 | --- | --- | --- | --- | --- | --- |
-| <a href="nds-puyo20/"><img src="img/thumb/nds-puyo20.png" alt="뿌요뿌요 20주년 기념판" height="96"></a> | [뿌요뿌요!! 20주년 기념판](nds-puyo20/) | NDS | v0.1.0 | 베타 | 2026-09-29 |
-| <a href="psp-puyo20/"><img src="img/thumb/psp-puyo20.png" alt="뿌요뿌요 20주년 기념판" height="96"></a> | [뿌요뿌요!! 20주년 기념판](psp-puyo20/) | PSP | v0.1.0 | 베타 | 2026-09-27 |
+| <a href="nds-puyo20/"><img src="img/thumb/nds-puyo20.png" alt="뿌요뿌요 20주년 기념판" height="96"></a> | [뿌요뿌요!! 20주년 기념판](nds-puyo20/) | NDS | v0.2.0 | 베타 | 2026-10-01 |
+| <a href="psp-puyo20/"><img src="img/thumb/psp-puyo20.png" alt="뿌요뿌요 20주년 기념판" height="96"></a> | [뿌요뿌요!! 20주년 기념판](psp-puyo20/) | PSP | v0.2.0 | 베타 | 2026-10-01 |
 | <a href="dc-puyopuyon/"><img src="img/thumb/dc-puyopuyon.png" alt="뿌요뿌욘" height="96"></a> | [뿌요뿌욘](dc-puyopuyon/) | 드림캐스트 | v1.0.1 | 정식 | 2026-07-10 |
 | <a href="dc-puyopuyo-da/"><img src="img/thumb/dc-puyopuyo-da.png" alt="뿌요뿌요 DA!" height="96"></a> | [뿌요뿌요 DA!](dc-puyopuyo-da/) | 드림캐스트 | v1.0.0 | 정식 | 2026-09-11 |
 | <a href="ps1-puyopuyo-box/"><img src="img/thumb/ps1-puyopuyo-box.png" alt="뿌요뿌요 BOX" height="96"></a> | [뿌요뿌요 BOX](ps1-puyopuyo-box/) | PlayStation | v0.1.1 | 베타 | 2026-09-21 |
