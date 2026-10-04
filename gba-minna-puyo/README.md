@@ -8,8 +8,6 @@ GBA **모두의 뿌요뿌요 (みんなでぷよぷよ / Minna de Puyo Puyo)** �
 
 ![캐릭터 선택](../img/gba-minna-puyo-character-select.png)
 
-![스토리 대사](../img/gba-minna-puyo-story-dialogue.png)
-
 ![대전 승리](../img/gba-minna-puyo-battle-win.png)
 
 ## 적용 방법
