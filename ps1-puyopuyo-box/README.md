@@ -4,7 +4,7 @@
 
 PlayStation **뿌요뿌요 BOX (ぷよぷよBOX)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.1)**: 번역·표기·그래픽과 패치 내용은 추후 변경될 수 있으며, 일부 조건에서 문제가 발생할 수 있습니다.
+> **정식 배포 (v1.0.0)**
 
 ![뿌요뿌요 BOX 한글 타이틀](../img/ps1-puyopuyo-box-title.png)
 
@@ -15,17 +15,17 @@ PlayStation **뿌요뿌요 BOX (ぷよぷよBOX)** 한글 번역 패치입니다
 ## 적용 방법
 
 1. 아래 체크섬과 일치하는 일본판 원본 BIN/CUE를 준비합니다.
-2. [Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/ps1-puyopuyo-box/Puyo%20Puyo%20BOX%20%28PlayStation%29%20KR%20v0.1.1.xdelta)를 다운로드합니다.
+2. [Puyo Puyo BOX (PlayStation) KR v1.0.0.xdelta](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/ps1-puyopuyo-box/Puyo%20Puyo%20BOX%20%28PlayStation%29%20KR%20v1.0.0.xdelta)를 다운로드합니다.
 3. `xdelta3` 등 xdelta 호환 패처로 원본 BIN에 한글 패치를 적용합니다.
 4. 원본 CUE를 복사한 뒤 `FILE` 행의 BIN 이름만 결과 BIN 이름으로 바꿉니다. `TRACK`과 `INDEX`는 유지합니다.
 
 ```sh
-xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta" "Puyo Puyo BOX (PlayStation) KR v0.1.1.bin"
+xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v1.0.0.xdelta" "Puyo Puyo BOX (PlayStation) KR v1.0.0.bin"
 ```
 
-0.1.1도 일본판 원본 BIN에 적용하는 누적 패치입니다. 기존 한글판 BIN에 덧씌우지 마세요. 업데이트 후에는 게임을 새로 실행해 메모리카드 저장 게임을 불러오세요. 이전 버전의 세이브스테이트 호환성은 확인하지 않았습니다.
+1.0.0도 일본판 원본 BIN에 적용하는 누적 패치입니다. 기존 한글판 BIN에 덧씌우지 마세요. 업데이트 후에는 게임을 새로 실행해 메모리카드 저장 게임을 불러오세요. 이전 버전의 세이브스테이트 호환성은 확인하지 않았습니다.
 
-## 0.1.1 변경 사항
+## 이전 0.1.1 변경 사항
 
 - 퀘스트의 특제뿌요만 설명 글자 누락과 상점 글꼴이 섞이는 문제 수정
 - 퀘스트 문자·숫자·문장부호의 글꼴 정리
@@ -38,9 +38,9 @@ xdelta3 -d -s "Puyo Puyo Box (Japan).bin" "Puyo Puyo BOX (PlayStation) KR v0.1.1
 
 ## 체크섬
 
-### 배포 패치 v0.1.1
+### 배포 패치 v1.0.0
 
-**Puyo Puyo BOX (PlayStation) KR v0.1.1.xdelta**
+**Puyo Puyo BOX (PlayStation) KR v1.0.0.xdelta**
 
 | 알고리즘 | 해시 |
 | --- | --- |
