@@ -23,7 +23,7 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 | <a href="ps2-puyopuyo2-perfect-set/"><img src="img/thumb/ps2-puyopuyo2-perfect-set.png" alt="뿌요뿌요 2 퍼펙트 셋" height="96"></a> | [뿌요뿌요 2 퍼펙트 셋](ps2-puyopuyo2-perfect-set/) | PlayStation 2 | v0.1.0 | 베타 | 2026-09-15 |
 | <a href="sfc-puyopuyo2/"><img src="img/thumb/sfc-puyopuyo2.png" alt="슈퍼 뿌요뿌요 2" height="96"></a> | [슈퍼 뿌요뿌요 2](sfc-puyopuyo2/) | SNES | v1.1.0 | 정식 | 2026-08-09 |
 | <a href="sfc-nazo-puyo1/"><img src="img/thumb/sfc-nazo-puyo1.png" alt="슈퍼 나조 뿌요 1" height="96"></a> | [슈퍼 나조 뿌요 1](sfc-nazo-puyo1/) | SNES | v1.1.0 | 정식 | 2026-10-07 |
-| <a href="sfc-nazo-puyo2/"><img src="img/thumb/sfc-nazo-puyo2.png" alt="슈퍼 나조 뿌요 2" height="96"></a> | [슈퍼 나조 뿌요 2](sfc-nazo-puyo2/) | SNES | v1.0.0 | 정식 | 2026-07-15 |
+| <a href="sfc-nazo-puyo2/"><img src="img/thumb/sfc-nazo-puyo2.png" alt="슈퍼 나조 뿌요 2" height="96"></a> | [슈퍼 나조 뿌요 2](sfc-nazo-puyo2/) | SNES | v1.1.0 | 정식 | 2026-10-07 |
 
 각 작품 페이지에서 패치 파일, 적용 방법, 체크섬과 크레딧을 확인할 수 있습니다.
 

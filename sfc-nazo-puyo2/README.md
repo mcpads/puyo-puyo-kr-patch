@@ -6,26 +6,26 @@ SFC **슈퍼 퍼즐뿌요 2 (すーぱーなぞぷよ通 ルルーの鉄腕繁�
 
 참고: [슈퍼 퍼즐뿌요 - 나무위키](https://namu.wiki/w/%ED%8D%BC%EC%A6%90%EB%BF%8C%EC%9A%94%20%EC%8B%9C%EB%A6%AC%EC%A6%88#s-6)
 
-![슈퍼 나조 뿌요 2 한글판 게임 화면](../img/sfc-nazo-puyo2-screenshot-1.png)
+![슈퍼 나조 뿌요 2 한글판 타이틀](../img/sfc-nazo-puyo2-screenshot-1.png)
 
 ![슈퍼 나조 뿌요 2 한글판 게임 화면](../img/sfc-nazo-puyo2-screenshot-2.png)
 
 ## 적용 방법
 
 1. **일본판 원본 ROM** (`Super Nazo Puyo Tsuu - Lulu no Tetsuwan Hanjouki (Japan).sfc`, 헤더 없는 LoROM, 1.5MB)을 준비합니다.
-2. [Super Nazo Puyo Tsuu - Lulu no Tetsuwan Hanjouki (SNES) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/sfc-nazo-puyo2/Super%20Nazo%20Puyo%20Tsuu%20-%20Lulu%20no%20Tetsuwan%20Hanjouki%20%28SNES%29%20KR%20v1.0.0.bps)를 다운로드합니다.
+2. [Super Nazo Puyo Tsuu - Lulu no Tetsuwan Hanjouki (SNES) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/sfc-nazo-puyo2/Super%20Nazo%20Puyo%20Tsuu%20-%20Lulu%20no%20Tetsuwan%20Hanjouki%20%28SNES%29%20KR%20v1.1.0.bps)를 다운로드합니다.
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 원본 ROM에 적용합니다.
 
 ## 체크섬
 
-### 배포 패치 v1.0.0
+### 배포 패치 v1.1.0
 
-**Super Nazo Puyo Tsuu - Lulu no Tetsuwan Hanjouki (SNES) KR v1.0.0.bps**
+**Super Nazo Puyo Tsuu - Lulu no Tetsuwan Hanjouki (SNES) KR v1.1.0.bps**
 
 | 알고리즘 | 해시 |
 | --- | --- |
-| SHA-256 | `b11f1251e7efd19bb4a3d2b5429a2101a31c48912fbabc7bcb100a5066f3b332` |
-| 크기 | 283,037 bytes |
+| SHA-256 | `7deeb44537b9209415c9719e1c5462f404ede91041958372e5d90ae64671ee97` |
+| 크기 | 251,462 bytes |
 
 ### 원본 ROM (SFC, 헤더 없음)
 
