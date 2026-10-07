@@ -6,7 +6,7 @@ SFC **슈퍼 퍼즐뿌요 1 (す～ぱ～なぞぷよ ルルーのルー, Super 
 
 참고: [슈퍼 퍼즐뿌요 - 나무위키](https://namu.wiki/w/%ED%8D%BC%EC%A6%90%EB%BF%8C%EC%9A%94%20%EC%8B%9C%EB%A6%AC%EC%A6%88#s-6)
 
-![슈퍼 나조 뿌요 1 한글판 게임 화면](../img/sfc-nazo-puyo-screenshot-1.png)
+![슈퍼 나조 뿌요 1 한글판 타이틀](../img/sfc-nazo-puyo-screenshot-1.png)
 
 ![슈퍼 나조 뿌요 1 한글판 게임 화면](../img/sfc-nazo-puyo-screenshot-2.png)
 
