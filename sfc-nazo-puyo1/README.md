@@ -15,19 +15,19 @@ SFC **슈퍼 퍼즐뿌요 1 (す～ぱ～なぞぷよ ルルーのルー, Super 
 ## 적용 방법
 
 1. **일본판 원본 ROM** (`Super Nazo Puyo - Lulu no Lu (Japan).sfc`, 헤더 없는 LoROM, 1MB)을 준비합니다.
-2. [Super Nazo Puyo - Lulu no Lu (SNES) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/sfc-nazo-puyo1/Super%20Nazo%20Puyo%20-%20Lulu%20no%20Lu%20%28SNES%29%20KR%20v1.0.0.bps)를 다운로드합니다.
+2. [Super Nazo Puyo - Lulu no Lu (SNES) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/puyo-puyo-kr-patch/main/sfc-nazo-puyo1/Super%20Nazo%20Puyo%20-%20Lulu%20no%20Lu%20%28SNES%29%20KR%20v1.1.0.bps)를 다운로드합니다.
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 원본 ROM에 적용합니다.
 
 ## 체크섬
 
-### 배포 패치 v1.0.0
+### 배포 패치 v1.1.0
 
-**Super Nazo Puyo - Lulu no Lu (SNES) KR v1.0.0.bps**
+**Super Nazo Puyo - Lulu no Lu (SNES) KR v1.1.0.bps**
 
 | 알고리즘 | 해시 |
 | --- | --- |
-| SHA-256 | `040c4b426bcc6b37638c5c981c7219157e310ce18b33779e30f6ae2a65c936eb` |
-| 크기 | 183,470 bytes |
+| SHA-256 | `f9504cfcc6f55a7c3c7512bd250d4d22b1176fd7ddbd376b67b8a769f4069193` |
+| 크기 | 196,553 bytes |
 
 ### 원본 ROM (SFC, 헤더 없음)
 
