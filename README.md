@@ -12,6 +12,7 @@ Claude Code / Codex를 활용하여 리버싱/번역하고, 사람이 기초 검
 
 | 대표 이미지 | 게임 | 기종 | 버전 | 상태 | 최근 배포 |
 | --- | --- | --- | --- | --- | --- |
+| <a href="https://github.com/mcpads/3ds-puyo-puyo-chronicle-kr-patch"><img src="img/thumb/3ds-puyo-chronicle.png" alt="뿌요뿌요 크로니클" height="96"></a> | [뿌요뿌요 크로니클](https://github.com/mcpads/3ds-puyo-puyo-chronicle-kr-patch) | 3DS | v0.1.0 | 베타 | 2026-10-08 |
 | <a href="gg-nazo-puyo/"><img src="img/thumb/gg-nazo-puyo.png" alt="나조뿌요 - 아르르의 루" height="96"></a> | [나조뿌요 - 아르르의 루](gg-nazo-puyo/) | 게임기어 | v1.0.0 | 정식 | 2026-10-05 |
 | <a href="gba-minna-puyo/"><img src="img/thumb/gba-minna-puyo.png" alt="모두의 뿌요뿌요" height="96"></a> | [모두의 뿌요뿌요](gba-minna-puyo/) | GBA | v0.1.0 | 베타 | 2026-10-04 |
 | <a href="sfc-puyopuyo2-remix/"><img src="img/thumb/sfc-puyopuyo2-remix.png" alt="슈퍼 뿌요뿌요 2 리믹스" height="96"></a> | [슈퍼 뿌요뿌요 2 리믹스](sfc-puyopuyo2-remix/) | SNES | v1.0.0 | 정식 | 2026-10-04 |
